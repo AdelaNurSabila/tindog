@@ -1,2 +1,1 @@
-# tindog
-learn tindog website
+TinDog Starting Files
